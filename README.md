@@ -21,6 +21,8 @@ Here is the Collection of mute words for you
 
 `twitter can teach you more`
 
+`old kids are making`
+
 ### Thanks to 🫡
 > When adding words, make sure to add your Twitter or GitHub profile below.
 
