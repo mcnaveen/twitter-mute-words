@@ -23,6 +23,8 @@ Here is the Collection of mute words for you
 
 `old kids are making`
 
+`?`
+
 ### Thanks to 🫡
 > When adding words, make sure to add your Twitter or GitHub profile below.
 
